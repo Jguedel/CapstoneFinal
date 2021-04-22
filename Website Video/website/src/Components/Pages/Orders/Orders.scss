@@ -1,0 +1,21 @@
+.adminOrders {
+    text-align: center;
+  .singleOrder {
+      padding-bottom: 20px;
+      max-width: 800px;
+      margin: auto;
+      border-bottom: 1px solid black;
+    table,
+    th,
+    td {
+      width: 100%;
+      border: 1px solid black;
+      border-collapse: collapse;
+      text-align: left;
+      padding: 5px;
+    }
+    p{
+        text-align: left;
+    }
+  }
+}

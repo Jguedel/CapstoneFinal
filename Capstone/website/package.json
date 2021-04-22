@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "firebase": "^8.2.7",
-    "firestorter": "^3.0.1",
-    "mobx-react": "^7.1.0"
-  }
-}

@@ -1,0 +1,26 @@
+.payment {
+  margin: auto;
+  padding-bottom: 50px;
+  max-width: 850px;
+  text-align: center;
+  min-width: 765px;
+  
+  .pay {
+    h3 {
+      text-align: center;
+    }
+    input {
+      margin: auto;
+    }
+  }
+  a {
+    text-decoration: none;
+    button {
+      width: 765px;
+      background-color: black;
+      font-size: 20px;
+      color: white;
+      cursor: pointer;
+    }
+  }
+}

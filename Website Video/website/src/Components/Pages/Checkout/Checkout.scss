@@ -1,0 +1,19 @@
+h2 {
+  text-align: center;
+}
+.orderSum {
+  margin: auto;
+  max-width: 700px;
+  table,
+  th,
+  td {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 5px;
+  }
+  .itemQuan {
+    text-align: center;
+  }
+}
