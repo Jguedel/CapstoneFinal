@@ -1,0 +1,20 @@
+div.item{
+    border: 1px solid aqua;
+    overflow: hidden;
+    height: auto;
+    max-height: 600px;
+}
+img{
+    width: 50%;
+    height: auto;
+    max-height: 600px;
+    float: left;
+}
+p{
+    width: 50%;
+    height: 50%;
+    float: right;
+}
+button{
+    width: 20%;
+}

@@ -1,0 +1,12 @@
+div.nav{
+    margin: 0px;
+    background-color: gray;
+    height: 30px;
+    /*FIX TO A POSITION*/
+    position: sticky;
+    top: 0;
+}
+label.nav{
+    margin: 10px;
+    background-color: grey;
+}
