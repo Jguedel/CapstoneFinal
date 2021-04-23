@@ -1,0 +1,37 @@
+h1,h2{
+    text-align: center;
+  }
+  .products {
+    margin: 10px auto;
+    max-width: 1000px;
+    .item {
+      text-align: center;
+      margin: 10px;
+      max-height: 600px;
+      img {
+        float: left;
+        width: 50%;
+        max-width: 400px;
+        max-height: 540px;
+        padding-bottom: 10px;
+      }
+      p {
+        float: right;
+        width: 40%;
+        font-size: 15px;
+        font-weight: normal;
+      }
+      h5{
+        float: right;
+        width: 40%;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+        max-height: 24px;
+      }
+      a {
+        margin: auto;
+      }
+    }
+  }
+  

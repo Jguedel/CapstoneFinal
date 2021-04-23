@@ -1,0 +1,21 @@
+.goal {
+  margin: auto;
+  max-width: 1000px;
+  text-align: center;
+}
+.Sites {
+  max-width: 1200px;
+  border: 1px solid black;
+  margin: auto;
+  text-align: center;
+
+  .singleSite {
+    max-width: 1000px;
+    border: 1px solid black;
+    margin: 10px auto;
+
+    img {
+      max-width: 200px;
+    }
+  }
+}

@@ -1,0 +1,31 @@
+//TARGETS EVERYTHING AND SETS BOX SIZING
+//Box sizing allows for an element’s specified width and height aren’t affected by padding or borders
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+//SET UP BASIC FORMATTING FOR WEBPAGE
+html {
+  font-size: 25px;
+  min-width: 875px;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+html,
+body,
+#root,
+.App,
+.MainLayout {
+  height: 100%;
+}
+h1 {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
